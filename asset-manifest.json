@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MovieCards/static/css/main.2fa4e3dd.css",
+    "main.js": "/MovieCards/static/js/main.c0c7351b.js",
+    "static/js/453.7b992f96.chunk.js": "/MovieCards/static/js/453.7b992f96.chunk.js",
+    "static/media/IT.jpg": "/MovieCards/static/media/IT.228782ffe1efc69881e2.jpg",
+    "static/media/img3.webp": "/MovieCards/static/media/img3.64bd6e2efd10e864bf83.webp",
+    "static/media/talk to me.jpg": "/MovieCards/static/media/talk to me.279a8a5b7cf91e636523.jpg",
+    "static/media/theconjuring.jpg": "/MovieCards/static/media/theconjuring.f3965cc56ffa056faac7.jpg",
+    "static/media/Lights_Out_poster.webp": "/MovieCards/static/media/Lights_Out_poster.2f25a5b8c2be7b114951.webp",
+    "static/media/dead silence.jpg": "/MovieCards/static/media/dead silence.9da952c76bce325b4215.jpg",
+    "static/media/smile-2.jpeg": "/MovieCards/static/media/smile-2.6af23a0ba366d1580e11.jpeg",
+    "index.html": "/MovieCards/index.html",
+    "main.2fa4e3dd.css.map": "/MovieCards/static/css/main.2fa4e3dd.css.map",
+    "main.c0c7351b.js.map": "/MovieCards/static/js/main.c0c7351b.js.map",
+    "453.7b992f96.chunk.js.map": "/MovieCards/static/js/453.7b992f96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa4e3dd.css",
+    "static/js/main.c0c7351b.js"
+  ]
+}
